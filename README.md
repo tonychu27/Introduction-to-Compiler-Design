@@ -1,3 +1,5 @@
+> [!CAUTION]
+> Don't copy my work or you will be caught for plagiarism 🙅‍♂️⛔️
 # Introduction-to-Compiler-Design
 2023 Fall, NYCU, 游逸平
 ## Grading Policy
