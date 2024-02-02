@@ -15,3 +15,5 @@
 Midterm Exam 25% \
 Final Exam 25% \
 Course Projects 50%
+
+Notice that bonus points obtained in the homework do **NOT** affect the exam scores.
