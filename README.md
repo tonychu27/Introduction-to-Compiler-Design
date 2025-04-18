@@ -4,7 +4,7 @@
 2023 Fall, NYCU, 游逸平
 
 | Homework |               Name                  |        
-| :---     |                                 ---:|
+| :---     |                                 :---|
 | HW1      |  Lexical Analyzer                    | 
 | HW2      |  Syntax Analyzer |
 | HW3      |  Abstract Syntax Tree Generation           |
